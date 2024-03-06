@@ -5,7 +5,7 @@
 I am a college student who is interested in becoming a data scientist.
 
 * 🌍 I'm based in New York
-* 🖥️ See my portfolio at [My Portfolio](http://maxfilsremfort.com)
+* 🖥️ See my portfolio at http://maxfilsremfort.com
 * ✉️ You can contact me at [maxfils@maxfilsremfort.com](mailto:maxfils@maxfilsremfort.com)
 * 🧠 I'm learning Pandas
 * 🤝 I'm open to collaborating on Data Science Projects
