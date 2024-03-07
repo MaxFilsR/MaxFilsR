@@ -6,7 +6,6 @@ I am a college student who is interested in becoming a data scientist.
 * 🌍 I'm based in New York
 * 🖥️ See my portfolio at http://maxfilsremfort.com
 * ✉️ You can contact me at [maxfils@maxfilsremfort.com](mailto:maxfils@maxfilsremfort.com)
-* 🧠 I'm learning Pandas
 * 🤝 I'm open to collaborating on Data Science Projects
 * ⚡ Fun Fact: I have been designing websites for over 8 years, and I am the Founder & CEO of a web design agency Fils Web Solutions.
 
