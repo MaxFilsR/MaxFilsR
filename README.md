@@ -1,5 +1,4 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Max Fils Remfort
-
 ## Data Scientist in the Making
 
 I am a college student who is interested in becoming a data scientist.
@@ -10,6 +9,8 @@ I am a college student who is interested in becoming a data scientist.
 * 🧠 I'm learning Pandas
 * 🤝 I'm open to collaborating on Data Science Projects
 * ⚡ Fun Fact: I have been designing websites for over 8 years, and I am the Founder & CEO of a web design agency Fils Web Solutions.
+
+<a href="http://www.github.com/maxfilsr"><img src="https://github-readme-stats.vercel.app/api?username=maxfilsr&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 
 ### Skills
 
@@ -42,12 +43,4 @@ I am a college student who is interested in becoming a data scientist.
   </a>
 </p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/maxfilsr"><img src="https://github-readme-stats.vercel.app/api?username=maxfilsr&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="maxfilsr's GitHub stats" /></a>
-
-<a href="http://www.github.com/maxfilsr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maxfilsr&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/maxfilsr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxfilsr&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
