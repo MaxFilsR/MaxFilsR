@@ -6,8 +6,7 @@ I am a college student who is interested in becoming a data scientist.
 * 🌍 I'm based in New York
 * 🖥️ See my portfolio at http://maxfilsremfort.com
 * ✉️ You can contact me at [maxfils@maxfilsremfort.com](mailto:maxfils@maxfilsremfort.com)
-* 🤝 I'm open to collaborating on Data Science Projects
-* ⚡ Fun Fact: I have been designing websites for over 8 years, and I am the Founder & CEO of a web design agency Fils Web Solutions.
+* ⚡ Fun Fact: I have been designing websites for over 8 years, and I run a web design agency that I started in the 8th grade called Fils Web Solutions.
 
 <a href="http://www.github.com/maxfilsr"><img src="https://github-readme-stats.vercel.app/api?username=maxfilsr&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 
