@@ -1,5 +1,4 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Max Fils Remfort
-## Data Scientist in the Making
 
 I am a college student who is interested in building apps for my own personal projects and improving my fulls tack web design skills.
 
